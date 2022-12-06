@@ -2,3 +2,4 @@
 - 👀 I’m interested in Machine Learning and AI technologies
 - 🌱 I’m currently learning Python, C++, and Tensorflow
 - 📫 How to reach me: banankha@usc.edu
+- 🎶 My most recent project is a Video to MP3 Converter implementing a microservice architecture
