@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Reza Banankhah
-- 👀 I’m interested in Machine Learning and AI technologies
-- 🌱 I’m currently learning Python, C++, and Tensorflow
+- 👀 I’m interested in Machine Learning and Full Stack Development
+- 🌱 I’m currently learning JavaScript, Python, C++, and SvelteKit
 - 📫 How to reach me: banankha@usc.edu
 - 📘 Linkedin: https://www.linkedin.com/in/rbanankhah/
-- 🎶 My most recent project is a Video to MP3 Converter implementing a microservice architecture
+- 🖥️ Check out my personal site
