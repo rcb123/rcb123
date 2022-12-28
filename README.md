@@ -2,5 +2,5 @@
 - 👀 I’m interested in Machine Learning and Full Stack Development
 - 🌱 I’m currently learning Svelte, JavaScript, Python, and C++
 - 📫 How to reach me: banankha@usc.edu
-- 📘 Linkedin: https://www.linkedin.com/in/rbanankhah/
-- 🖥️ Check out my personal site : [rezab.vercel.app](rezab.vercel.app)
+- 📘 Linkedin: www.linkedin.com/in/rbanankhah/
+- 🖥️ Check out my personal site : [rezab.vercel.app](https://rezab.vercel.app)
