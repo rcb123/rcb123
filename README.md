@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Svelte, JavaScript, Python, and C++
 - 📫 How to reach me: banankha@usc.edu
 - 📘 Linkedin: https://www.linkedin.com/in/rbanankhah/
-- 🖥️ Check out my personal site
+- 🖥️ Check out my personal site : rezab.vercel.app
