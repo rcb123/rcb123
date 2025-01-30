@@ -4,7 +4,7 @@
 
 ## 👋 Hi, my name is Reza Banankhah
 - 👀 I’m interested in Artificial Intelligence and Full Stack Development
-- 🌱 I’m currently learning C, TypeScript, and SvelteKit
+- 🌱 I’m currently learning TypeScript, SvelteKit, and Python
 
 ## Get in touch 
 My site: [rezab.vercel.app](https://rezab.vercel.app)
