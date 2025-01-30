@@ -1,5 +1,4 @@
 # Reza - @rcb123
-#### Software Engineer at PennyMac <br/>
 #### Frontend:  HTML | CSS | Svelte <br/>
 #### Backend: Typescript | Node.js | PostgreSQL <br/>
 
